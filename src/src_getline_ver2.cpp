@@ -15,11 +15,13 @@ int main()
     double GPA;
     double GPA_total=0.0;
     string linestr;
+    string temp_str;
     int count=0;
 
 
 //    while (getline(cin,linestr)) {
   ifstream myfile("example.txt");
+  ofstream out("example_out.txt");
   while (getline(myfile,linestr)) {
         if (linestr.empty()) break;
 
@@ -36,8 +38,12 @@ int main()
         cout << "GPA(score): " << GPA << "\n";
         GPA_total += GPA;
         count++;
+        temp_str=format("{:10s}{:20s}{:20s}{:10d}{:10.2f}\n",student_id,name,dept,age,GPA);
+        cout << temp_str;
+        out << temp_str;
     }
   myfile.close();
+  out.close();
     cout << "GPA average: " << GPA_total/count << "\n";
 
     return 0;
