@@ -1,9 +1,9 @@
 Your team project report should be written in English and should contain 
 (a) project  title, list of team members, presentation speaker name, and brief project description (summary)
 (b) how to compile and execute. system requirement for compilation and execution
-(c) description on functionality (±â´É) that was implemented in your SW system. - ¹«½¼ ±â´ÉÀÌ ÀÖ´ÂÁö ¼­¼ú.
+(c) description on functionality (ê¸°ëŠ¥) that was implemented in your SW system. - ë¬´ìŠ¨ ê¸°ëŠ¥ì´ ìˆëŠ”ì§€ ì„œìˆ .   
 (d) how you implemented (important implementation issues)
 (e) the result of SW system  design (it's good to include basic UML diagrams, such as class diagram and use-case diagram, in your SW design result.)
-(f) execution results : show real examples of program execution. (use screen capture) show that each function(±â´É) of the SW system is working correctly. 
+(f) execution results : show real examples of program execution. (use screen capture) show that each function(ê¸°ëŠ¥) of the SW system is working correctly. 
 (g) explain how you applied object oriented concepts to the development for your project. also explain what you felt and learned from the project.
 (h)  Conclusion
