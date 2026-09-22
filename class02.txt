@@ -1,0 +1,40 @@
+Class 02
+
+Team 1
+고은정
+이도현
+오윤주
+김도현
+
+Team 2
+김민겸
+김태우
+정진우
+임성우
+
+Team 3
+김민준
+이윤성
+
+Team 4
+김민지
+김재원
+김상우
+
+Team 5
+류수정
+안상윤
+
+Team 6
+서동환
+정선빈
+
+Team 7
+송보규
+박희범
+
+Team 8
+압둘가니
+텔문
+
+All the others: size-1 teams

@@ -1,0 +1,30 @@
+Class 03
+
+Team 1
+박성빈
+이준성
+정찬주
+최준화
+
+Team 2
+신지후
+조민규
+손건영
+유금진
+도현서
+
+Team 3
+이민서
+이규민
+정지윤
+
+Team 4
+홍로빈
+채준성
+
+Team 5
+Rubens Guzman
+Clarisse Kosior
+백학림
+
+All the others: size-1 teams

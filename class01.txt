@@ -1,0 +1,44 @@
+Class 01
+
+Team 1
+김유겸
+박지원
+박주용
+김용성
+
+Team 2
+박진호
+이찬규
+김태경
+박강현
+
+Team 3
+이수호
+유민형
+
+Team 4
+조민석
+최예준
+황지운
+제갈현
+
+Team 5
+장정업
+장문욱
+오도붕
+
+Team 6
+Glenn Hilgers 
+Stijn Pleumeekers
+
+Team 7
+Marin Lamy
+Clement Talneau
+바발리 하얄라 (*)
+
+Team 8
+슈루티
+세인 신 케인
+흐난이쉐이
+
+All the others: Size-1 Teams
